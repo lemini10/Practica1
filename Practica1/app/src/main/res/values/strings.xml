@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Practica1LRBL</string>
+    <string name="myName">Luis Roberto Blancas Lemini</string>
+    <string name="appVersion">v1.0.0</string>
+
+    <string-array name="formulasPicker" >
+        <item >"Volumen de un cilindro"</item>
+        <item >"Volumen de un cono"</item>
+        <item >"Aceleración"</item>
+    </string-array>
+
+    <string name="radius">Radio</string>
+    <string name="height">Altura</string>
+    <string name="initialSpeed">Velocidad inicial</string>
+    <string name="finalSpeed">Velocidad final</string>
+    <string name="time">Tiempo</string>
+
+
+    <string name="result_label">El resultado de su operación es:</string>
+
+    <string name="bundleResult">result</string>
+    <string name="toastText">Por favor ingresa valores válidos</string>
+    <string name="emptyString"></string>
+
+    <string name="accept">Aceptar</string>
+
+
+</resources>

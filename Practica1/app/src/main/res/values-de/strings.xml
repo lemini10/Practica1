@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica1LRBL</string>
+    <string name="myName">Luis Roberto Blancas Lemini</string>
+    <string name="appVersion">v1.0.0</string>
+
+    <string-array name="formulasPicker" >
+        <item >"Volumen eines Zylinders"</item>
+        <item >"Volumen eines Kegels"</item>
+        <item >"Beschleunigung"</item>
+    </string-array>
+
+    <string name="radius">Radio</string>
+    <string name="height">Altura</string>
+    <string name="initialSpeed">Velocidad inicial</string>
+    <string name="finalSpeed">Velocidad final</string>
+    <string name="time">Tiempo</string>
+
+    <string name="result_label" >dein Ergebnis ist:</string>
+    <string name="bundleResult">result</string>
+    <string name="toastText">Bitte geben Sie gültige Werte ein</string>
+    <string name="emptyString"></string>
+    <string name="accept">Akzeptieren</string>
+
+</resources>
